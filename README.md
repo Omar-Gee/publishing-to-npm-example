@@ -1,5 +1,7 @@
 # Publish Your Own NPM Package
 
+This project shows you how to create a simple package and publishing it on the npm registry.
+
 ## Table of Contents
   - [Prerequisites](#prerequisites)
   - [Steps](#steps)
@@ -13,8 +15,6 @@
   - [Acknowledgments](#acknowledgments)
 
 [//]: **[repo](https://github.com/Omar-Gee/publishing-to-npm-example)**
-
-This project shows you how to create a simple package and publishing it on the npm registry.
 
 ## Prerequisites
 
@@ -92,7 +92,7 @@ This will most likely result in the following error
 
 > You do not have permission to publish "my-package". Are you logged in as the correct user?
 
-This is most likely because a package with that name already exists. Luckily for us npm [_scoping_](https://docs.npmjs.com/about-scopes) is a thing.
+This would probably be because a package with that name already exists. Luckily for us npm [_scoping_](https://docs.npmjs.com/about-scopes) is a thing.
 
 Lets edit our package name to the following
 ```
