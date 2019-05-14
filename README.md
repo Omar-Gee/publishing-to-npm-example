@@ -1,6 +1,17 @@
 # Publish Your Own NPM Package
 
-**[repo]()**
+## Table of Contents
+  - [Prerequisites](#prerequisites)
+  - [Steps](#steps)
+    - [package.json](#packagejson)
+    - [index.js](#indexjs)
+  - [Using our package](#using-our-package)
+  - [Testing our package](#testing-our-package)
+  - [Disclaimer](#disclaimer)
+  - [Author](#author)
+  - [Acknowledgments](#acknowledgments)
+
+[//]: **[repo](https://github.com/Omar-Gee/publishing-to-npm-example)**
 
 This project shows you how to create a simple package and publishing it on the npm registry.
 
@@ -168,7 +179,7 @@ Once everything is working as intended you can publish your package with
 ## Disclaimer
 This is my first ever educational piece. If you have any comments or tips please let me know.
 
-## Authors
+## Author
 
 * [@og_fresh_pots](https://twitter.com/og_fresh_pots) - [github](https://github.com/Omar-Gee)
 
