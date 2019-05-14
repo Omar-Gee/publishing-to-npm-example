@@ -3,6 +3,7 @@
 ## Table of Contents
   - [Prerequisites](#prerequisites)
   - [Steps](#steps)
+    - [Setting up our npm account](#Setting-up-our-npm-account)
     - [package.json](#packagejson)
     - [index.js](#indexjs)
   - [Using our package](#using-our-package)
@@ -22,6 +23,7 @@ This project shows you how to create a simple package and publishing it on the n
  * Any editor of choice
 
 ## Steps
+### Setting up our npm account
 If you don't already own an npm account, please do that [now](https://www.npmjs.com/).
 
 Now that you have your account, lets sign in using the npm cli:
